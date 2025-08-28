@@ -1,7 +1,7 @@
 
-Esse projeto apresenta um painel interativo de faturamento do Gatito Petshop, desenvolvido para fornecer uma visão clara e objetiva sobre os resultados financeiros da empresa.
+ Esse projeto apresenta um painel interativo de faturamento do Gatito Petshop, desenvolvido para fornecer uma visão clara e objetiva sobre os resultados financeiros da empresa.
 
-O dashboard exibe indicadores importantes, como:
+ O dashboard exibe indicadores importantes, como:
 
 Faturamento total
 
