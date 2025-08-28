@@ -21,3 +21,4 @@ Busca por produtos, facilitando a análise de vendas específicas.
 
 Com um design visual amigável e intuitivo, o projeto possibilita que a empresa acompanhe seus resultados e tome decisões estratégicas com base em dados confiáveis.
 
+<img width="1451" height="812" alt="Captura de tela 2025-08-28 161225" src="https://github.com/user-attachments/assets/5822edec-bf8b-4a94-a362-7115c3735462" />
