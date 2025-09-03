@@ -14,3 +14,4 @@ Tarefa 4: Criar uma visualização que mostra a quantidade de produtos por categ
 
 Tarefa 5: Criar um filtro para segmentar os registros por ano
 
+<img width="1313" height="733" alt="image" src="https://github.com/user-attachments/assets/ea1b745b-5e20-4dc7-b051-3243041f3d5f" />
